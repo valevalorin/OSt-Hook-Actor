@@ -12,8 +12,8 @@
     "type": "git",
     "url": "git+https://github.com/valevalorin/ost-hook-actor.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "valevalorin",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/valevalorin/ost-hook-actor/issues"
   },
